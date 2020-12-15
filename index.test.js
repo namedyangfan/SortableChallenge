@@ -2,8 +2,8 @@ import helper from './helper';
 import loader from './loader';
 import calcualtePerSite from './index';
 
-const configPath = './auction-challenge/config.json';
-const inputPath = './auction-challenge/input.json';
+const configPath = './config.json';
+const inputPath = './input.json';
 
 const mockBidders = [
   {

@@ -1,7 +1,7 @@
 import loader from './loader';
 
-const configPath = './auction-challenge/config.json';
-const inputPath = './auction-challenge/input.json';
+const configPath = './config.json';
+const inputPath = './input.json';
 const expectedSites = [
   {
     name: 'houseofcheese.com',
